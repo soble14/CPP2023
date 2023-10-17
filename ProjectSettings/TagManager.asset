@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2384389725
+    locked: 0
+  - name: PlayLayer
+    uniqueID: 3282095593
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
